@@ -1,2 +1,2 @@
 # calculator_project
-A basic calculator,portfolio and landing page built using [html,css and javascript].
+A basic calculator and portfolio page project using [html,css and javascript].
